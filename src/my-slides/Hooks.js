@@ -3,7 +3,7 @@ import MarkdownSlide from "../slide-wrappers/MarkdownSlide";
 
 export default () => {
   const markdown = `
-# Hooks
+# HOOKS
 
 * Adding **state and behavior** to function components
 
