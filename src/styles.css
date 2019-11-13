@@ -25,8 +25,11 @@ a {
 }
 
 footer {
-  color: steelblue;
   text-align: right;
+  position: fixed;
+  bottom: 0;
+  padding-left: calc(100vw - 260px);
+  padding-bottom: 10px;
 }
 
 footer span {

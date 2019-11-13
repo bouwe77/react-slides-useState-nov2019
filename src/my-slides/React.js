@@ -3,7 +3,7 @@ import MarkdownSlide from "../slide-wrappers/MarkdownSlide";
 
 export default () => {
   const markdown = `
-# REACT
+# REACT ⚛️
 
 * Components are the **building blocks** of your application
 

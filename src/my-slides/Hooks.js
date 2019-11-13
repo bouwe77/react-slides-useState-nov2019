@@ -7,7 +7,9 @@ export default () => {
 
 * Adding **state and behavior** to function components
 
-* No Class Components, Higher Order Components or Render Props when creating new components
+* No class components anymore
+
+* Replaces Higher Order Components and Render Props
   `;
   return <MarkdownSlide markdown={markdown} />;
 };
