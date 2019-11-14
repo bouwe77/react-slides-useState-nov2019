@@ -7,6 +7,8 @@ export default () => {
 
 * Adding **state and behavior** to function components
 
+* State, side effects, context, memoization, etc.
+
 * No class components anymore
 
 * Replaces Higher Order Components and Render Props

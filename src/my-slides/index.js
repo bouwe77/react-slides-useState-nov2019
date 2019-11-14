@@ -15,6 +15,7 @@ import React from "./React";
 import Hooks from "./Hooks";
 import CustomHooks from "./CustomHooks";
 import Questions from "./Questions";
+import ClassesVsHooks from "./ClassesVsHooks";
 
 export default [
   Welcome,
@@ -27,6 +28,7 @@ export default [
   ExampleUseState,
   CustomHooks,
   ExampleUseState,
+  ClassesVsHooks,
   Questions,
   Thanks
 ];

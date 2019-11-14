@@ -1,6 +1,6 @@
 import React from "react";
 
-export default () => <>Let's create a stateful function component :)</>;
+export default () => <>Let's create a stateful function component... :)</>;
 
 // What we'll learn in this example:
 // * React does not know state has changed unless you tell it explicitely.

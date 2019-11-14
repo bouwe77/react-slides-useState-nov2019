@@ -1,3 +1,3 @@
 import React from "react";
 
-export default () => <>Let's create a stateful class component</>;
+export default () => <>Let's create a component... :)</>;

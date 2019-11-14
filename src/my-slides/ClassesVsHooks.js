@@ -3,13 +3,17 @@ import MarkdownSlide from "../slide-wrappers/MarkdownSlide";
 
 export default () => {
   const markdown = `
-# REACT ⚛️
+# Classes vs Hooks
 
-* Components are the **UI building blocks** of your application
+When to use Hooks?
 
-* State makes your components **dynamic**
+* For new components
+* React > 16.8.0
 
-* Next to UI, components can also have logic and behavior
-    `;
+When to use Classes?
+
+* They are fine for existing components
+* For ErrorBoundary components
+`;
   return <MarkdownSlide markdown={markdown} />;
 };
